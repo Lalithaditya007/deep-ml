@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:56:39.891Z",
+  "generated_at": "2026-09-21T05:46:55.537Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-20T18:56:35.437Z",
       "last_pushed_at": "2026-09-20T18:56:35.437Z"
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-21T05:46:46.704Z",
+      "last_pushed_at": "2026-09-21T05:46:46.704Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
